@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE memList
+[
+<!ELEMENT memList (memberInfo+)>
+<!ELEMENT memberInfo (name, telephone?, curriculumn?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT telephone (#PCDATA)>
+<!ELEMENT curriculumn (sub+)>
+<!ELEMENT sub (#PCDATA)>
+<!ATTLIST memberInfo mid CDATA #REQUIRED>
+]>
+
+
+<memList>
+	<memberInfo mid="1">
+		<name>이윤수</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>java</sub>
+			<sub>oracle</sub>
+		</curriculumn>
+	</memberInfo>
+	
+	<memberInfo mid="2">
+		<name>정한올</name>
+		<telephone><![CDATA[010-5678-8455]]></telephone>
+		<curriculumn>
+			<sub>java</sub>
+			<sub>oracle</sub>
+		</curriculumn>
+	</memberInfo>
+	
+	<memberInfo mid="3">
+		<name>강혜성</name>
+		<curriculumn>
+			<sub>java</sub>
+			<sub>oracle</sub>
+		</curriculumn>
+	</memberInfo>
+	
+	<memberInfo mid="4">
+		<name>김지민</name>
+		<telephone><![CDATA[010-8578-1255]]></telephone>
+	</memberInfo>
+	
+		<memberInfo mid="5">
+		<name>박범구</name>
+		<telephone><![CDATA[010-8548-2135]]></telephone>
+		<curriculumn>
+			<sub>java</sub>
+			<sub>oracle</sub>
+		</curriculumn>
+	</memberInfo>
+	
+</memList>
+
+
+
