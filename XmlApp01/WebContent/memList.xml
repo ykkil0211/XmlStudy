@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memList>
+	<!-- memList.xml -->
+	<memberInfo sid="1">
+		<name>이윤수</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[Servlet&jsp]]></sub>
+		</curriculumn>
+		<zidCode>1234</zidCode>
+		<addr>서울시 구로구</addr>
+	</memberInfo>	
+	
+	<memberInfo sid="2">
+		<name>정한올</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[Servlet&jsp]]></sub>
+		</curriculumn>
+		<zidCode>1234</zidCode>
+		<addr>서울시 구로구 신도림동 103</addr>
+	</memberInfo>
+	
+	<memberInfo sid="3">
+		<name>강혜성</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[Servlet&jsp]]></sub>
+		</curriculumn>
+		<zidCode>1234</zidCode>
+		<addr>서울시 구로구 신도림동 103</addr>
+	</memberInfo>
+	
+	<memberInfo sid="4">
+		<name>김지민</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[Servlet&jsp]]></sub>
+		</curriculumn>
+		<zidCode>1234</zidCode>
+		<addr>서울시 구로구 신도림동 103</addr>
+	</memberInfo>
+	
+	<memberInfo sid="5">
+		<name>박범구</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[Servlet&jsp]]></sub>
+		</curriculumn>
+		<zidCode>1234</zidCode>
+		<addr>서울시 도봉구</addr>
+	</memberInfo>
+	
+	<memberInfo sid="6">
+		<name>길현욱</name>
+		<telephone><![CDATA[010-1234-5678]]></telephone>
+		<curriculumn>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[Servlet&jsp]]></sub>
+		</curriculumn>
+		<zidCode>1234</zidCode>
+		<addr>서울시 구로구 신도림동 103</addr>
+	</memberInfo>		
+</memList>
